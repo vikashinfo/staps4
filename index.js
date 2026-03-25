@@ -18,7 +18,7 @@ async function prodetdat() {
     <h5 class="card-title"> title: ${item.title}</h5>
     <p class="card-text"> category: ${item.category}</p>
     <p>${item.description}</p>
-    <a href="product.html?slug=${item.slug}" class="btn btn-primary">view</a>
+    <a href="prodct.html?slug=${item.slug}" class="btn btn-primary">view</a>
   </div>
 </div>
       
